@@ -74,4 +74,4 @@ This project is for educational purposes and can be adapted for real-world secur
 
 ## Author
 
-Developed by **DIAWARA Nana** as a simple Python cryptography project with prodigy infotech.
+Developed by **DIAWARA Nana**.
