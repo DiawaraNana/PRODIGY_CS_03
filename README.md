@@ -31,9 +31,13 @@ It provides feedback and suggestions to help users create stronger passwords.
 > - Gives suggestions for improving the password.
 ## Project Structure
 project/
+
 │
+
 ├── password_checker.py      # Main program
+
 ├── common_password.txt      # List of common passwords
+
 └── README.md                # Documentation
 
 ## How It Works
